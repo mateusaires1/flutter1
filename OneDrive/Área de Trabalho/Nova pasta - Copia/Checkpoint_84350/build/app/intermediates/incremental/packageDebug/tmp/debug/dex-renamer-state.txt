@@ -1,0 +1,4 @@
+#Fri Apr 08 09:07:35 BRT 2022
+base.0=C\:\\Users\\eduar\\Projetos\\Checkpoint_84922\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
